@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aldair\\source\\repos\\CuboProyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9AB38C-7620-4BD7-91D5-268DFD54B782}|CuboProyecto\\CuboProyecto.dwproj|C:\\Users\\Aldair\\source\\repos\\CuboProyecto\\CuboProyecto\\Sales And Customer ETL.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{0A9AB38C-7620-4BD7-91D5-268DFD54B782}|CuboProyecto\\CuboProyecto.dwproj|solutionrelative:CuboProyecto\\Sales And Customer ETL.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sales And Customer ETL.cube [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Aldair\\source\\repos\\CuboProyecto\\CuboProyecto\\Sales And Customer ETL.cube",
+              "RelativeDocumentMoniker": "CuboProyecto\\Sales And Customer ETL.cube",
+              "ToolTip": "C:\\Users\\Aldair\\source\\repos\\CuboProyecto\\CuboProyecto\\Sales And Customer ETL.cube [Dise\u00F1o]",
+              "RelativeToolTip": "CuboProyecto\\Sales And Customer ETL.cube [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-19T03:45:44.176Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
